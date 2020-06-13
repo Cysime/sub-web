@@ -251,7 +251,7 @@ export default {
           ssr: "ssr",
           ssd: "ssd"
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "https://api.rss.ovh/sub?" }],
         remoteConfig: [
           {
             label: "universal",
